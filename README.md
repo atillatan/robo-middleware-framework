@@ -1,6 +1,10 @@
 # robo-middleware-framework
 
-Middleware Example:
+This project demonstrates when we invoking some method we can pass the method as a parameter to another method.
+If we design the application using middleware pipeline. we can success method calls with Separating of Concerns (SoC)
+we can catch all methods in middleware pipeline, and we can execute before middleware and after middleware
+
+## Middleware Example:
 
 ```csharp
 
